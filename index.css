@@ -89,7 +89,7 @@ a {
 .text {
   font-weight: 600;
   color: #AAAAAA;
-  font-size: small;
+  font-size: smaller;
 }
 
 .btn:hover {
