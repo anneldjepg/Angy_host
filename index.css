@@ -27,7 +27,7 @@
   left: 0;
   color: white;
   font-family: 'Courier New', Courier, monospace;
-  font-size: 10px;
+  font-size: 15px;
 
   display: flex;
   flex-wrap: wrap;
@@ -90,7 +90,7 @@ a {
 .text {
   font-weight: 600;
   color: #AAAAAA;
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .btn:hover {
