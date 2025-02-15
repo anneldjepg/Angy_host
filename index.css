@@ -27,7 +27,7 @@
   left: 0;
   color: white;
   font-family: 'Courier New', Courier, monospace;
-  font-size: 20px;
+  font-size: 10px;
 
   display: flex;
   flex-wrap: wrap;
@@ -43,7 +43,7 @@
 
 @media (min-width: 500px) {
   .title {
-    letter-spacing: 20px;
+    letter-spacing: 10px;
   }
 }
 
@@ -60,7 +60,7 @@
 /* Terapkan animasi dengan delay */
 .title span {
   opacity: 0;
-  animation: typing 1s ease forwards;
+  animation: typing 0.7s ease forwards;
   animation-delay: var(--delay);
 }
 
@@ -90,7 +90,7 @@ a {
 .text {
   font-weight: 600;
   color: #AAAAAA;
-  font-size: 20px;
+  font-size: 10px;
 }
 
 .btn:hover {
