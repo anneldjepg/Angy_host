@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('Feliz 14 mi bebé, que sean muchísimos mas a tu lado, te amo mi chiquita🤍').split('')
+    const titles = ('Feliz San Valentín y Feliz 14 mi bebé, te amo mi chiquita🤍').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
